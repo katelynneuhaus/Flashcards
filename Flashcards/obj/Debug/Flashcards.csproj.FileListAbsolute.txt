@@ -1,0 +1,6 @@
+C:\Users\kneuh\source\repos\Flashcards\Flashcards\bin\Debug\Flashcards.exe.config
+C:\Users\kneuh\source\repos\Flashcards\Flashcards\bin\Debug\Flashcards.exe
+C:\Users\kneuh\source\repos\Flashcards\Flashcards\bin\Debug\Flashcards.pdb
+C:\Users\kneuh\source\repos\Flashcards\Flashcards\obj\Debug\Flashcards.csprojAssemblyReference.cache
+C:\Users\kneuh\source\repos\Flashcards\Flashcards\obj\Debug\Flashcards.exe
+C:\Users\kneuh\source\repos\Flashcards\Flashcards\obj\Debug\Flashcards.pdb
